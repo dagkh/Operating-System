@@ -1,0 +1,11 @@
+C:\PROGRAMMING\Operating System\process-manager-windows-form-application\bin\Debug\process-manager-windows-form-application.exe.config
+C:\PROGRAMMING\Operating System\process-manager-windows-form-application\bin\Debug\process-manager-windows-form-application.exe
+C:\PROGRAMMING\Operating System\process-manager-windows-form-application\bin\Debug\process-manager-windows-form-application.pdb
+C:\PROGRAMMING\Operating System\process-manager-windows-form-application\obj\Debug\process-manager-windows-form-application.csproj.AssemblyReference.cache
+C:\PROGRAMMING\Operating System\process-manager-windows-form-application\obj\Debug\process-manager-windows-form-application.csproj.SuggestedBindingRedirects.cache
+C:\PROGRAMMING\Operating System\process-manager-windows-form-application\obj\Debug\process_manager_windows_form_application.Form1.resources
+C:\PROGRAMMING\Operating System\process-manager-windows-form-application\obj\Debug\process_manager_windows_form_application.Properties.Resources.resources
+C:\PROGRAMMING\Operating System\process-manager-windows-form-application\obj\Debug\process-manager-windows-form-application.csproj.GenerateResource.cache
+C:\PROGRAMMING\Operating System\process-manager-windows-form-application\obj\Debug\process-manager-windows-form-application.csproj.CoreCompileInputs.cache
+C:\PROGRAMMING\Operating System\process-manager-windows-form-application\obj\Debug\process-manager-windows-form-application.exe
+C:\PROGRAMMING\Operating System\process-manager-windows-form-application\obj\Debug\process-manager-windows-form-application.pdb
